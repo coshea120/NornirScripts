@@ -1,5 +1,5 @@
 ---
-cisco_ios: 
+cisco_ios_group: 
   platform: ios
 
-cisco_ios_xe: {}
+cisco_iosxe_group: {}
