@@ -4,3 +4,6 @@ data:
   snmp:
     version: 2
     comm_str: 'cisco'
+    server_ips:
+      - 10.0.109.11
+      - 10.0.109.12
