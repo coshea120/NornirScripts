@@ -1,0 +1,13 @@
+---
+SW1:
+  hostname:
+  port:
+  username:
+  password:
+  platform:
+  groups:
+    -
+    -
+  data:
+    ntp_server:
+    snmp_comm_str:
