@@ -1,5 +1,20 @@
 ---
-SW1:
-  hostname:
+CoreDist1:
+  hostname: 10.1.126.254
+  groups:
+    - cisco_ios_group
+
+CoreDist2:
+  hostname: 10.1.126.253
+  groups:
+    - cisco_ios_group
+
+Access1:
+  hostname: 10.1.126.252
+  groups:
+    - cisco_ios_group
+
+Access2:
+  hostname: 10.1.126.251
   groups:
     - cisco_ios_group
