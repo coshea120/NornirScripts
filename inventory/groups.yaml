@@ -2,4 +2,4 @@
 cisco_ios_group: 
   platform: ios
 
-cisco_iosxe_group: {}
+
